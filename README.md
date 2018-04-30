@@ -9,9 +9,9 @@ Each framework and use case has slightly differing setups. Select the one that m
 
 <details><summary>Jest</summary><p>
   
-<a href="/packages/jest-enzyme/README.md">jest-enzyme</a>
-<a href="/packages/jest-environment-enzyme/README.md">jest-environment-enzyme</a>
-<a href="/packages/eslint-config-jest-enzyme/README.md">eslint-config-jest-enzyme</a>
+[jest-enzyme](/packages/jest-enzyme/README.md)
+[jest-environment-enzyme](/packages/jest-environment-enzyme/README.md)
+[eslint-config-jest-enzyme](/packages/eslint-config-jest-enzyme/README.md)
   
 </p></details>
 
